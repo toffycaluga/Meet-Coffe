@@ -80,11 +80,13 @@ header h2{
 
 #ubicacion{
     padding: 40px;
+
+    justify-content: center;
+    text-align: center;
 }
 
 #ubicacion img{
     width:300px;
-    align-content: center;
 }
 #ubicacion h2,p{
     margin:40px 0px 20px 0px;
